@@ -1,1 +1,3 @@
-# Customer-experience-analysis-K-zBa-na
+# Customer-experience-analysis-KızBaşına
+
+Bu proje, Customer Experience veri seti ile gerçekleştirilmiştir. Çalışmanın amacı, temel veri analizi adımlarını uygulayarak veri seti üzerindeki genel yapıyı anlamak, eksik ve aykırı değerleri incelemek ve uygun görselleştirmelerle sonuçları sunmaktır. Analiz sürecinde ilk olarak sayısal değişkenlere ait ortalama, medyan, standart sapma, minimum ve maksimum gibi temel istatistiksel değerler hesaplanmıştır. Eksik değer analizi sonucunda veri setinde eksik bilgiye rastlanmamıştır. Aykırı değer analizi IQR yöntemiyle yapılmış ve değişkenlerin hiçbirinde aykırı gözleme rastlanmamıştır. Kategorik değişkenlerin dağılımı bar chart ile, sayısal değişkenlerin dağılımı ise boxplot grafiklerle görselleştirilmiştir. 
